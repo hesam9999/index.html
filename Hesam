@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zedbazi band </title>
+    <style>
+        /*کد های css*/
+         *{
+  background-color: black; 
+  text-decoration:none;
+  font-style:initial;
+  scroll-behavior: smooth;
+         }
+         @keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body {
+  animation: fadeIn 1.5s ease-in;
+}
+h1,
+h2{
+    color:white ;
+}
+ 
+ #title {
+     color: orange;
+     font-size: 100px;
+     font-weight: normal;
+     direction:ltl;
+     text-shadow: 10px 20px 22px  ;
+     letter-spacing: 150px;
+     }
+ p{
+      line-height: 20px;
+     -webkit-text-fill-color: azure; 
+     font-size: large;
+ }
+ img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute;
+     right: 550px; 
+    top: 250px;
+}
+a {
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+}
+h2 {
+  color: orange;
+  border-bottom: 2px solid orange;
+  padding-bottom: 10px;
+}
+#history{
+    color: orange;
+
+}
+#simple{
+    color: orange;
+}
+h2:hover {
+  color: orange;
+  cursor: pointer;
+}
+
+p:hover {
+  transform: translateX(10px);
+  transition: transform 0.8s ease;
+}
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  .band-logo {
+    width: 150px;
+  }
+}
+    </style>
+   
+</head>
+<!--کد html -->
+<body>
+    <h1 id="title">ZEDBAZI</h1>
+   <img src="zedbazi-persian-rap-group-logo-t-shirt.jpg" alt=""><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <br>
+    <a href="C:\Users\AMIRHESAM\Desktop\project\index 8.html" target="_blank"><big><b>see Persian website</b></big></a>
+    <p><big><b> (Persian: زدبازی) is an Iranian hip hop band, formed by longtime friends Saman Wilson and Mehrad Hidden, with Sohrab MJ joining soon after and later joined by Sijal, Alireza JJ and Nassim. In a 2022 concert, the founder of the group (Saman Wilson) announced the group's two new members, Sepehr Khalse and Behzad Leito.
+
+        They are known as the pioneers of gangsta rap in Iran.[2][3] The band's most famous song, "Tabestoon Kootahe", is largely credited as the first widely heard piece of Persian rap.
+        
+        The band was officially suspended in October 2014 for personal reasons.
+        
+        On May 20, 2020, Zedbazi announced that the group was resuming activities on their Instagram page. Shortly after, on June 10, 2020, they released two singles, "Yakh" (یخ; meaning ice), a diss track to Moltafet band and Hichkas; and "Bache Mahal" (بچه محل; meaning "neighbourhood guy"), talking about their past path to becoming famous from the beginning of Persian rap in Iran. The songs were released on Radio Javan.[4]
+        
+        The last song they published by the name of "Zedbazi" was "Tehran Mibinamet" which was released in 2022.</p>
+    </b></big>
+        <br><br><br><br>
+        <h1 id="history">history :</h1>
+        <a href="#foundation">foundation</a><br>
+        <a href="#popularity">popularity</a><br>
+        <a href="#Temporary-dissolution">Temporary dissolution</a>
+       <h2 id="foundation">foundation</h2>
+        <p><b><big>
+    The foundation of the band dates back to early 2002. It was started by Saman Rezapour (Saman Wilson) and Mehrad Mostofi-Rad (Mehrad Hidden), who were friends in a high school in Tehran. Despite having prior experiences in music, the formation of the band with a hip hop style was motivated by Saman's cover of Eminem's "Without Me", which was performed with matched vulgar lyrics written in Persian. After moving to London, they met Sohrab Mostafavi (Sohrab MJ) in a summer school. He joined the band after collaborating on "Kal Kal" (کل‌کل – Kal-kal, "Argue"), a cover of D12's "Rap Game".
+    
+    The three future band members officially joined Zedbazi by releasing "Tabestoon Kootahe" (تابستون کوتاهه – Tābestun Kutāh e, "Summer is Short") in
